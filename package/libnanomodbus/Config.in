@@ -1,0 +1,7 @@
+config BR2_PACKAGE_LIBNANOMODBUS
+    bool "libnanomodbus"
+    help
+      A lightweight and compact Modbus RTU/ASCII/TCP library written in C.
+
+      The nanomodbus library is designed to be modular, easy to integrate, and
+      suitable for embedded systems.
